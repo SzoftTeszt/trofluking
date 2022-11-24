@@ -1,0 +1,36 @@
+@import url('https://fonts.googleapis.com/css2?family=Raleway:ital,wght@0,400;0,700;1,400&display=swap');
+html{
+    font-size: 16px;
+}
+body{
+    font-family: 'Raleway', sans-serif;
+    background: url('../pics/kezdokep02gray.png') no-repeat center center black;
+    background-size: cover;
+}
+#container{
+    max-width:1200px;
+    min-width:600px;
+    margin: 0 auto;
+    width:95%;
+    color:#eb7928;
+    background: rgba(0,0,0,.4);
+    padding: 4rem 2rem;
+    box-shadow: 1px 1px 10px rgba(255,255,255,.4);
+}
+#head{
+    text-transform: uppercase;
+    font-weight: 400;
+    font-style: italic;
+    font-size: 5rem;
+    padding: 0rem 0;
+}
+#motto{
+    color:white;
+    font-style: italic;
+    font-size: 3rem;
+    padding: 4rem 0 2rem 0;
+}
+p{
+    color:white;
+    line-height: 1.7;
+}
