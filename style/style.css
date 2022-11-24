@@ -10,13 +10,13 @@ body{
 #container{
     max-width:1200px;
     min-width:600px;
-    margin: 0 auto;
+    margin: 4rem auto;
     width:95%;
     color:#eb7928;
     background: rgba(0,0,0,.4);
     padding: 4rem 2rem;
     box-shadow: 1px 1px 10px rgba(255,255,255,.4);
-    margin-bottom: 4rem;
+    
 }
 #head{
     text-transform: uppercase;
